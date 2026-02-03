@@ -52,10 +52,6 @@ More places to find me:
 
 - [Webinar # 1: GitHub Copilot as an AI Agent in the Software Development Workflow](https://youtu.be/hTGIuxUvStI?si=Ec2u_NcwSqrI4eQX)
 - [Microsoft AI Tour Tel Aviv - Developers Hub: Ben Dali and Eitan Sela](https://youtu.be/VSrVsk0lF14?si=JIDnZlv7ltm91gfX)
-- [Oracle - Cyber and security community session](https://youtu.be/NHzVu0Hir7c?si=WGv0D_Qcx7isqq_0)
-- [Playwright MCP + Chrome Extension: Testing with Logged-In Profiles](https://youtu.be/uE0r51pneSA)
-- [Virtual Cloud Summit: Securing your cloud environment](https://youtu.be/kNz5jEFzf5Q?si=HOYao--bLUYCi7hR)
-- [cloud and security podcast](https://youtu.be/X4CGyjeXpvw?si=vRFmAGazBveHw5Vs)
 
 <br>
 
@@ -80,6 +76,9 @@ Star something ⭐ fork something 🍴 or feel free to connect on social media �
 <p align="center">
 <img src="./assets/lovyyn-bro.gif" alt="hell yeah!">
 
+
+<br>
+<br>
 Cheers 🥃
 
 Ben
