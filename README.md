@@ -22,10 +22,11 @@ At Microsoft, I lead Azure-driven innovation with a strong emphasis on AI enable
 
 My expertise spans system architecture, advanced networking, high-performance computing, virtualization, security, and private cloud. I’ve led large-scale transformation projects, helping organizations build secure, resilient, and scalable platforms for mission-critical workloads.
 
-I’m also a strong advocate for developer experience and AI adoption, frequently delivering workshops, webinars, and talks on generative AI, DevSecOps, and cloud-native development—always with a focus on translating deep technical capabilities into tangible business value.
-
 Over the years, I’ve contributed to numerous community initiatives, including workshops, hackathons, and technical events.
 Previously, I founded OCIKB, a blog dedicated to Oracle Cloud Infrastructure, and led the local OCI community in my country.
+
+I’m also a strong advocate for developer experience and AI adoption, frequently delivering workshops, webinars, and talks on generative AI, DevSecOps, and cloud-native development—always with a focus on translating deep technical capabilities into tangible business value.
+
 
 <br>
 
